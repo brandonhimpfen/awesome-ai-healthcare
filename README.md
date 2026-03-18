@@ -69,6 +69,7 @@
 - **[Fabric Genomics](https://fabricgenomics.com/)** - AI for genomic analysis and clinical interpretation.
 - **[GRAIL](https://grail.com/)** - AI-based blood testing for early cancer detection.
 - **[Epinomics](https://www.epinomics.com/)** - AI-driven tools for epigenomics research.
+- **[DeepDNA](https://deepdna.ai)** - European AI-powered platform for analyzing consumer DNA data (23andMe, AncestryDNA) with personalized health, nutrition, and pharmacogenomic insights. GDPR-compliant, EU servers only.
 - **[DNAnexus](https://www.dnanexus.com/)** - A platform for genomic data analysis and precision medicine.
 
 ## AI in Mental Health
