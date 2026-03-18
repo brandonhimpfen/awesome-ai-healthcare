@@ -54,7 +54,8 @@
 - **[Health Catalyst](https://www.healthcatalyst.com/)** - AI-powered analytics for patient outcomes and operational efficiency.
 - **[Viz.ai](https://www.viz.ai/)** - AI for real-time patient care coordination, especially in stroke cases.
 - **[Cerner AI](https://www.cerner.com/solutions/artificial-intelligence)** - AI solutions for patient engagement and EHR integration.
-
+- **[AI Medical Scribe](https://github.com/hutchpd/AI-Medical-Scribe)** - Browser-based, local-first medical scribe for live transcription, on-device summarisation, document drafting, and client-side FHIR export.
+  
 ## Drug Discovery
 
 - **[Atomwise](https://www.atomwise.com/)** - AI-driven drug discovery using deep learning.
