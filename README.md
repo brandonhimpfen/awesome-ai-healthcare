@@ -87,6 +87,10 @@
 - **[OpenNeuro](https://openneuro.org/)** - Neuroimaging datasets for research purposes.
 - **[TCGA (The Cancer Genome Atlas)](https://www.cancer.gov/about-nci/organization/ccg/research/structural-genomics/tcga)** - Genomic data for cancer research.
 
+## AI Agent Infrastructure
+
+- [TWZRD Agent Intel](https://intel.twzrd.xyz/) — Trust scoring for AI agents on Solana. Verify agent wallet identity before x402 micropayments in healthcare AI workflows. Free MCP: `{"mcpServers":{"twzrd-agent-intel":{"url":"https://intel.twzrd.xyz/mcp"}}}`
+
 ## Ethics and Governance
 
 - **[AI Ethics in Healthcare](https://bioethics.jhu.edu/)** - Articles and resources on ethical challenges in AI-driven healthcare.
