@@ -51,6 +51,7 @@
 ## Patient Management
 
 - **[Epic Systems](https://www.epic.com/)** - AI-enhanced electronic health record (EHR) system.
+- **[CareClinic Health Tracker MCP](https://cdn.careclinic.io/mcp/help/index.html)** - Hosted private-source OAuth MCP for reviewing personal medication schedules, symptoms, mood, and confirmed health check-ins.
 - **[CareSkore](https://www.careskore.com/)** - AI for patient risk stratification and management.
 - **[Health Catalyst](https://www.healthcatalyst.com/)** - AI-powered analytics for patient outcomes and operational efficiency.
 - **[Viz.ai](https://www.viz.ai/)** - AI for real-time patient care coordination, especially in stroke cases.
