@@ -47,6 +47,7 @@
 - **[Aidoc](https://www.aidoc.com/)** - AI for real-time analysis of medical images for diagnostics.
 - **[Google Health AI](https://health.google/)** - AI tools for diagnostics and clinical predictions.
 - **[PathAI](https://pathai.com/)** - AI solutions for pathology diagnostics.
+- **[Yuan Doctor](https://www.yuandoctor.com/en/tools/nihss)** - Free bedside clinical calculators and pathways for licensed clinicians (NIHSS, qSOFA, Wells PE, HEART); local browser computation with agent skill at [/for-ai/SKILL.md](https://www.yuandoctor.com/for-ai/SKILL.md).
 
 ## Patient Management
 
